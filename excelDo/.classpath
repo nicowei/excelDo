@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/JAVA知识/Excel文件操作/jarForPoi/poi-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA知识/Excel文件操作/jarForPoi/poi-examples-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA知识/Excel文件操作/jarForPoi/poi-ooxml-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA知识/Excel文件操作/jarForPoi/poi-ooxml-schemas-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA知识/Excel文件操作/jarForPoi/poi-scratchpad-3.15-beta2.jar"/>
+	<classpathentry kind="lib" path="D:/Java_ExternalJars/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java_ExternalJars/activation-1.1-rev-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
